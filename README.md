@@ -5,10 +5,10 @@
 
 <h3>💁🏼‍♀️💻 About Me </h3>
 
-- 🥹 &nbsp; Exploring new technologies and developing software solutions and quick hacks in Java. Skilled in using Git for version control and familiar with agile methodologies for software development.
+- 👀 &nbsp; Exploring new technologies and developing software solutions and quick hacks in Java. Skilled in using Git for version control and familiar with agile methodologies for software development.
 - 🌱 &nbsp; Learning about Spring framework and its applications in building enterprise-level applications. Continuously expanding my knowledge through online courses and technical blogs, with a particular interest in artificial intelligence and machine learning.
-- 🎓 &nbsp; Graduated in International Studies, Languages and Literatures which provided a strong foundation in cross-cultural communication and analytical skills.
-- ✍️ &nbsp; I love writing code and learning about it, as well as learning new languages and photography.
+- 👩🏼‍🎓 &nbsp; Graduated in International Studies, Languages and Literatures which provided a strong foundation in cross-cultural communication and analytical skills.
+- ✍🏼 &nbsp; I love writing code and learning about it, as well as learning new languages and photography.
 
 ---
 
@@ -16,7 +16,7 @@
 
 - 💻 &nbsp; Java | Spring | MySQL | Git
 ---
-<h3> 💜 Connect with Me </h3>
+<h3> 💚 Connect with Me </h3>
 <a href="https://www.linkedin.com/in/aurora-scalici/" target="_blank"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"></a>
 
 <p align="center">
