@@ -1,6 +1,6 @@
 ### Hi there 👋🏼<h2> I'm Aurora🌸</h2>
 
-<img align='right' src="file:///C:/Users/hp/Downloads/Immagini/girlpc.png" width="230">
+<img align='right' src="C:/Users/hp/Downloads/Immagini/girlpc.png" width="230">
 
 <h3>💁🏼‍♀️💻 About Me </h3>
 
