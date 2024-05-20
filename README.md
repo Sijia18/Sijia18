@@ -22,7 +22,7 @@
 <p align="center">
 </p>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Sijia18.Sijia18)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30" align="right">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Sijia18.Sijia18)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30" align="mid-right">
 <p align="center">
   Made with :heart: &nbsp; using GitHub Markdown
   <br/>
