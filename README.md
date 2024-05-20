@@ -37,7 +37,7 @@
 
 <br/><br/>
 
-[![Aurora's GitHub Stats]()
+⭐ [![Aurora's GitHub Stats]()
 
 <br/>
 
