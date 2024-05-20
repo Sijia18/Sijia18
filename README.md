@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> 
-###Hi there👋🏼 <h2> I'm Aurora🌸</h2>
+###<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hi there👋🏼 <h2> I'm Aurora🌸</h2>
 
 <img align='right' src="C:/Users/hp/Downloads/Immagini/girlpc.png" width="230">
 
