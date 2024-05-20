@@ -17,7 +17,7 @@
 - 🎓 &nbsp; Graduated in International Studies, Languages and Literatures which provided a strong foundation in cross-cultural communication and analytical skills.
 
 - ✍️ &nbsp; I love writing code and learning about it, as well as learning new languages and photography.
-
+---
 
 
 <h3>🛠 Tech Stack</h3>
