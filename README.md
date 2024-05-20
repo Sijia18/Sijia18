@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="80px" /> to my Github profile! 
 <h2> I'm Aurora🌸 a junior Java developer!</h2> 
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30%" />
-<img align='right' src="https://i.imgur.com/3ZMjPrA.png" width="30%" />
+<img align='right' src="https://i.imgur.com/3ZMjPrA.png" width="30%"/>
 
 <h3>💁🏼‍♀️💻 About Me </h3>
 
