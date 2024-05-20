@@ -40,18 +40,10 @@
 <br/><br/>
 
 ⭐ [![Aurora's GitHub Stats]()
-<a href="https://www.linkedin.com/in/aurora-scalici/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@aurora-scalici-blue?style=flat&logo=linkedin"></a>
-
-
-<br><br>
-
-
-
-<hr>
-
-
 
 <h3> 🤝🏻 Connect with Me </h3>
+<a href="https://www.linkedin.com/in/aurora-scalici/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@aurora-scalici-blue?style=flat&logo=linkedin"></a>
+
 
 <br>
 
