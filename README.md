@@ -35,12 +35,6 @@
 
 -->
 
-<hr>
-
-
-
-<br/><br/>
-
 ⭐ [![Aurora's GitHub Stats]()
 
 <h3> 🤝🏻 Connect with Me </h3>
