@@ -4,7 +4,7 @@
 
 
 
-<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.123rf.com%2Fclipart-vettori%2Fragazza_al_pc.html&psig=AOvVaw0A3R7-FzkXo8qQI3h2WwbC&ust=1716318207308000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwinnejZ9ZyGAxW9of0HHeHzD84QjRx6BAgAEBU" width="30%">
+<img align='right' src="https://i.ibb.co/7R0jYhd/girl-with-laptop.jpg" width="30%">
 
 <h3>💁🏼‍♀️💻 About Me </h3>
 
