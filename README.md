@@ -4,7 +4,7 @@
 
 
 
-<img align='right' src="C:/Users/hp/Downloads/Immagini/girlpc.png" width="30">
+<img align='right' src="C:/Users/hp/Downloads/Immagini/girlpc.png" width="30%">
 
 <h3>💁🏼‍♀️💻 About Me </h3>
 
