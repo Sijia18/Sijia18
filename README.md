@@ -4,7 +4,7 @@
 
 
 
-<img align='right' src="https://ibb.co/230YZF0" width="30%">
+<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.pngtree.com%2Ffreepng%2Fcartoon-girl-sitting-on-a-laptop-with-her-headphones-vector_11090178.html&psig=AOvVaw0t1hc3EBAqjYFVRjvgqtXP&ust=1716318129502000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiKi7b1nIYDFQAAAAAdAAAAABAR" width="30%">
 
 <h3>💁🏼‍♀️💻 About Me </h3>
 
