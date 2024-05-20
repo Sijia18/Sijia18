@@ -1,5 +1,5 @@
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="80px" /> Hi there👋🏼 
-  <h2> I'm Aurora🌸 a junior Java developer!</h2> <img alt="GIF" src="https://camo.githubusercontent.com/5ac1a700d41a1c1fbd8ec4ee168a0be6566130d9e19b61a4c6c42f807761918c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f436d72314f4d4a32464e3042322f67697068792e676966" data-canonical-src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" style="max-width: 40%; display: inline-block;" data-target="animated-image.originalImage">
+  <h2> I'm Aurora🌸 a junior Java developer!</h2> <img alt="GIF" src="https://camo.githubusercontent.com/5ac1a700d41a1c1fbd8ec4ee168a0be6566130d9e19b61a4c6c42f807761918c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f436d72314f4d4a32464e3042322f67697068792e676966" data-canonical-src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" style="max-width: 40; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <img align='right' src="C:/Users/hp/Downloads/Immagini/girlpc.png" width="230">
