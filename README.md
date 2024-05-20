@@ -4,7 +4,8 @@
 
 
 
-<img align='right' src="https://i.ibb.co/7R0jYhd/girl-with-laptop.jpg" width="30%">
+<img align='right' src="https://i.imgur.com/OHv57IQ.png" width="30%">
+
 
 <h3>💁🏼‍♀️💻 About Me </h3>
 
