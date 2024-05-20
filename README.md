@@ -15,9 +15,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | Spring | MySQL | Git
-
-<br>
 ---
+<br>
+
 <h3> 🤝🏻 Connect with Me </h3>
 <a href="https://www.linkedin.com/in/aurora-scalici/" target="_blank"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"></a>
 
