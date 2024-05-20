@@ -3,10 +3,6 @@
   <h2> I'm Aurora🌸 a junior Java developer!</h2> <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 30%/>
 
 
-
-<img align='right' src="https://i.imgur.com/OHv57IQ.png" width="30%">
-
-
 <h3>💁🏼‍♀️💻 About Me </h3>
 
 
