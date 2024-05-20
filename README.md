@@ -1,4 +1,4 @@
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="80px" /> Hi there👋🏼 
+ Hi there👋🏼 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="80px" />  to my Github!
   <h2> I'm Aurora🌸 a junior Java developer!</h2> <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 80%/>
 
 
