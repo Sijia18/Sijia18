@@ -1,5 +1,5 @@
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="80px" /> Hi there👋🏼 
-  <h2> I'm Aurora🌸 a junior Java developer!</h2>
+  <h2> I'm Aurora🌸 a junior Java developer!</h2> <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 80/>
 
 
 <img align='right' src="C:/Users/hp/Downloads/Immagini/girlpc.png" width="230">
