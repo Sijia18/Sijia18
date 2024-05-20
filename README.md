@@ -1,5 +1,6 @@
 <h1>Hi there👋🏼 </h1> 
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="80px" /> to my Github profile! 
+ <img align="right" src="C:/Users/hp/Downloads/Immagini/girlpc.png" width="100px" height= "80px">
   <h2> I'm Aurora🌸 a junior Java developer!</h2> <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 30%/>
 
 
