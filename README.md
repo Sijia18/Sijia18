@@ -8,7 +8,7 @@
 - 👀 &nbsp; Exploring new technologies and developing software solutions and quick hacks in Java. Skilled in using Git for version control and familiar with agile methodologies for software development.
 - 🌱 &nbsp; Learning about Spring framework and its applications in building enterprise-level applications. Continuously expanding my knowledge through online courses and technical blogs, with a particular interest in artificial intelligence and machine learning.
 - 👩🏼‍🎓 &nbsp; Graduated in International Studies, Languages and Literatures which provided a strong foundation in cross-cultural communication and analytical skills.
-- ✍🏼 &nbsp; I love writing code and learning about it, as well as learning new languages and photography.
+- ✍🏼 &nbsp; I love writing code and learning about it, as well as learning new languages, travels and photography.
 
 ---
 
