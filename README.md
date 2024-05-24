@@ -2,13 +2,6 @@
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="80px" /> to my Github profile! 
 <h2 style="animation: blink 1s infinite;">I'm Aurora🌸, a junior Java developer!</h2>
 
-<style>
-  @keyframes blink {
-    0% { opacity: 1; }
-    50% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30%" />
 
 <h3>💁🏼‍♀️💻 About Me </h3>
