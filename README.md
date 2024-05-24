@@ -7,7 +7,7 @@
 
 - 👩🏼‍🎓 &nbsp; Graduated in International Studies, Languages and Literatures which provided a strong foundation in cross-cultural communication and analytical skills.
 - ✍🏼 &nbsp; I love writing code and learning about it, as well as learning new languages, travels and photography.
--    &nbsp; I’m currently working on [Car Dealer](https://github.com/develhope/Java23-Team1-Dealer)
+- 📚 &nbsp; I’m currently working on [Car Dealer](https://github.com/develhope/Java23-Team1-Dealer)
 - 🌱 &nbsp; Learning about Spring framework and its applications in building enterprise-level applications. Continuously expanding my knowledge through online courses and technical blogs, with a particular interest in artificial intelligence and machine learning.
 - 👀 &nbsp; Exploring new technologies and developing software solutions and quick hacks in Java & Sql. Skilled in using Git for version control and familiar with agile methodologies for software development.
 
