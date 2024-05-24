@@ -25,8 +25,10 @@
   <img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram">
 </a>
 <a href="https://t.me/prymb" target="_blank"> <img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram"></a>
+<p align="center"></p>
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Sijia18.Sijia18)  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30" align="mid-right">
+
 <p align="center">
   Made with :heart: &nbsp; using GitHub Markdown
   <br/>
