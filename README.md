@@ -18,8 +18,12 @@
 - 💻 &nbsp; Java | Spring | MySQL | Git
 ---
 <h3> 💚 Connect with Me </h3>
-<a href="https://www.linkedin.com/in/aurora-scalici/" target="_blank"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"></a>
-<a href="https://www.instagram.com/aurora.scalici_/" target="blank"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sijia18"></a>
+<a href="https://www.linkedin.com/in/aurora-scalici/" target="linkedin">
+  <img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/aurora.scalici_/" target="instagram">
+  <img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram">
+</a>
 <a href="https://t.me/prymb" target="_blank"> <img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram"></a>
 <p align="center">
 </p>
